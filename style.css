@@ -11,17 +11,11 @@ body {
 }
 
 .container {
-  /* background-color: black;
-  border: 15px solid black; */
-  /* width: 1540px; */
   width: 80%;
   height: 80%;
   display: grid;
-  /* grid-template-columns: 670px 220px 360px 170px; */
   grid-template-columns: 48% 15% 25% 12%;
-  /* grid-template-rows: 170px 40px 140px 130px 220px 310px; */
   grid-template-rows: 17% 4% 14% 13% 22% 30%;
-  /* gap: 30px; */
   gap: 1rem;
   margin: 5% 7.5%;
 }
